@@ -1,0 +1,332 @@
+.version.bread_of_life_give /* version checker */
+{
+	color: #00001D;
+	background-color: #EC7D87;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 945px;
+	min-height: 936.9499999999999px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 119px 17px 604.0500000000001px 18px;
+}
+
+#u1207
+{
+	z-index: 2;
+	height: 54px;
+	top: 0px;
+}
+
+#u1207-bw
+{
+	z-index: 2;
+}
+
+#u2370
+{
+	z-index: 31;
+	width: 150px;
+	min-height: 30px;
+	top: 15px;
+	left: 50%;
+	margin-left: 164px;
+}
+
+#u1208
+{
+	z-index: 3;
+	width: 30px;
+	top: 12px;
+	left: 50%;
+	margin-left: 392px;
+}
+
+#u1210
+{
+	z-index: 5;
+	width: 29px;
+	top: 12px;
+	left: 50%;
+	margin-left: 442px;
+}
+
+#u1497-4
+{
+	z-index: 7;
+	top: 21px;
+	left: 50%;
+	margin-left: -469px;
+}
+
+#u1498-4
+{
+	z-index: 11;
+	top: 21px;
+	left: 50%;
+	margin-left: -389px;
+}
+
+#u1499-4
+{
+	z-index: 15;
+	top: 21px;
+	left: 50%;
+	margin-left: -255px;
+}
+
+#u1500-4
+{
+	z-index: 19;
+	top: 21px;
+	left: 50%;
+	margin-left: -150px;
+}
+
+#u1501-4
+{
+	z-index: 23;
+	top: 21px;
+	left: 50%;
+	margin-left: -54px;
+}
+
+#u1502-4
+{
+	z-index: 27;
+	top: 21px;
+	left: 50%;
+	margin-left: 65px;
+}
+
+#u1413-4
+{
+	z-index: 32;
+	display: block;
+	vertical-align: top;
+	margin-left: 3px;
+	position: relative;
+}
+
+#u1414-7
+{
+	z-index: 36;
+	display: block;
+	vertical-align: top;
+	margin-left: 3px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#tab-panelu1609
+{
+	z-index: 43;
+	width: 945px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u1617
+{
+	z-index: 44;
+	width: 945px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1618
+{
+	z-index: 45;
+	width: 315px;
+	min-height: 214px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/timebutton.jpg") no-repeat center top;
+}
+
+#u1618:hover
+{
+	width: 315px;
+	min-height: 214px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/timebuttonover.jpg") no-repeat center top;
+}
+
+#u1618.TabbedPanelsTabSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 315px;
+	min-height: 214px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/timebutton.jpg") no-repeat center top;
+}
+
+#u1622
+{
+	z-index: 46;
+	width: 316px;
+	min-height: 214px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 314px;
+	background: #FFFFFF url("../images/treasuresbutton.jpg") no-repeat center top;
+}
+
+#u1622:hover
+{
+	width: 316px;
+	min-height: 214px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/treasuresbuttonover.jpg") no-repeat center top;
+}
+
+#u1622.TabbedPanelsTabSelected
+{
+	width: 316px;
+	min-height: 214px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/treasuresbutton.jpg") no-repeat center top;
+}
+
+#u1626
+{
+	z-index: 47;
+	width: 316px;
+	min-height: 214px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 629px;
+	background: #FFFFFF url("../images/ministrybutton.jpg") no-repeat center top;
+}
+
+#u1626:hover
+{
+	width: 316px;
+	min-height: 214px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/ministrybuttonover.jpg") no-repeat center top;
+}
+
+#u1626.TabbedPanelsTabSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 316px;
+	min-height: 214px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/ministrybutton.jpg") no-repeat center top;
+}
+
+#u1610
+{
+	z-index: 48;
+	width: 945px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1613
+{
+	z-index: 49;
+	width: 945px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C98B1F;
+	padding-bottom: 276px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1614-11
+{
+	z-index: 50;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 40px;
+}
+
+#u1615
+{
+	z-index: 61;
+	width: 945px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C98B1F;
+	padding-bottom: 122px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1616-13
+{
+	z-index: 62;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 40px;
+}
+
+#u1611
+{
+	z-index: 75;
+	width: 945px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C98B1F;
+	padding-bottom: 89px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1612-11
+{
+	z-index: 76;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 40px;
+}
+
+.TabbedPanelsTab /* tabset */
+{
+	cursor: pointer;
+}
+
+body
+{
+	position: relative;
+	min-width: 980px;
+	padding-bottom: 15px;
+}
+

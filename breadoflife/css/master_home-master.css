@@ -1,0 +1,150 @@
+#u481
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #141413;
+	position: fixed;
+}
+
+#u2374
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u267,#u262
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u275-4,#u278-4,#u279-4,#u280-4,#u281-4,#u282-4
+{
+	position: fixed;
+}
+
+#u591
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u488
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #C98B1F;
+}
+
+#buttonu534
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/churchbutton.jpg") no-repeat left top;
+}
+
+#buttonu534:hover
+{
+	background: transparent url("../images/churchbuttonover.jpg") no-repeat left top;
+}
+
+#buttonu534.ButtonSelected
+{
+	background: transparent url("../images/churchbutton.jpg") no-repeat left top;
+}
+
+#buttonu546
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/helpbutton.jpg") no-repeat left top;
+}
+
+#buttonu546:hover
+{
+	background: transparent url("../images/helpbuttonover.jpg") no-repeat left top;
+}
+
+#buttonu546.ButtonSelected
+{
+	background: transparent url("../images/helpbutton.jpg") no-repeat left top;
+}
+
+#buttonu547
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/servebutton.jpg") no-repeat left top;
+}
+
+#buttonu547:hover
+{
+	background: transparent url("../images/servebuttonover.jpg") no-repeat left top;
+}
+
+#buttonu547.ButtonSelected
+{
+	background: transparent url("../images/servebutton.jpg") no-repeat left top;
+}
+
+#u2241
+{
+	border-style: none;
+	border-color: transparent;
+	background: #141413 url("../images/pattern.jpg") repeat-x center top;
+}
+
+#u2239
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #141413;
+}
+
+#u592,#u631,#u640,#u2246
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2743,#u2243,#u2248
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#slideshowu573,#u488_align_to_page,#u2239_align_to_page,#u2247-6
+{
+	position: relative;
+}
+
+#u275-4_img,#u278-4_img,#u279-4_img,#u280-4_img,#u281-4_img,#u282-4_img,#u2247-6_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u479-4,#u666-14,#u2240-4,#u2245-10,#u2250-8
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+

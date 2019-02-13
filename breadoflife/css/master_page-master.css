@@ -1,0 +1,33 @@
+#u1207
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #141413;
+	position: fixed;
+}
+
+#u2370
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u1208,#u1210
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u1497-4,#u1498-4,#u1499-4,#u1500-4,#u1501-4,#u1502-4
+{
+	position: fixed;
+}
+
+#u1497-4_img,#u1498-4_img,#u1499-4_img,#u1500-4_img,#u1501-4_img,#u1502-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+

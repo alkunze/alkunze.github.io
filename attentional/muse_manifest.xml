@@ -1,0 +1,108 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1448379367997" domain="www.ashleylkunze.com/attentional">
+  <folder name="css">
+    <file name="site_global.css" crc="482263224"/>
+    <file name="index.css" crc="4052060250" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="01-problem_proposal.pdf" crc="4188466445" mt="1417905208000"/>
+    <file name="02-problem_defined.pdf" crc="168132432" mt="1417905253000"/>
+    <file name="03-problem_categories.pdf" crc="269900308" mt="1417905282000"/>
+    <file name="04-research_plan.pdf" crc="3926359896" mt="1417905313000"/>
+    <file name="05-conditions_secondary_research.pdf" crc="4183153827" mt="1417750689000"/>
+    <file name="10-young_affected_presentation.pdf" crc="314880872" mt="1417905447000"/>
+    <file name="06-focus_group_ideas.pdf" crc="3785657627" mt="1417905368000"/>
+    <file name="07-lack_of_focus_group_schedule.pdf" crc="3873708552" mt="1417750682000"/>
+    <file name="08-potential_survey_questions.pdf" crc="4033834935" mt="1417905396000"/>
+    <file name="09-young_affected_questions.pdf" crc="3857551261" mt="1417750676000"/>
+    <file name="11-compiled_research.pdf" crc="3809824976" mt="1418437699000"/>
+    <file name="12-game_plan.pdf" crc="4001689506" mt="1417905480000"/>
+    <file name="13-exposure_week.pdf" crc="3994185877" mt="1417905501000"/>
+    <file name="14-the_content.pdf" crc="4088640523" mt="1417750677000"/>
+    <file name="15-infographic_mockup.pdf" crc="4253582577" mt="1418264722000"/>
+    <file name="attentionalinfographic.png" crc="434993443" mt="1418273320000"/>
+    <file name="storybook.pdf" crc="3932536436" mt="1418524823000"/>
+    <file name="devotional.pdf" crc="465153703" mt="1418525210000"/>
+    <file name="life-of-love-poster.pdf" crc="3997241799" mt="1418525314000"/>
+    <file name="tip-book.pdf" crc="25256261" mt="1418525395000"/>
+    <file name="activity-cards.pdf" crc="35262988" mt="1418525469000"/>
+    <file name="share-cards.pdf" crc="161931497" mt="1418525592000"/>
+    <file name="journal.pdf" crc="3983249326" mt="1418525674000"/>
+    <file name="attentional_usbfolder.pdf" crc="346246443" mt="1418525797000"/>
+    <file name="sticker-template.pdf" crc="169086996" mt="1418677955000"/>
+    <file name="game-cards.pdf" crc="3963883459" mt="1418678160000"/>
+    <file name="buzzbreakprint.pdf" crc="3914344136" mt="1418678219000"/>
+    <file name="app.pdf" crc="4238338704" mt="1418686771000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="135959251" ref="index" seo="true"/>
+    <file name="header5.png" crc="218141197" ref="index"/>
+    <file name="groupphoto.jpg" crc="4156087043" ref="index"/>
+    <file name="blue.jpg" crc="4104784994" ref="index"/>
+    <file name="web.png" crc="4285730689" ref="index" seo="true"/>
+    <file name="rect.png" crc="321041471" ref="index" seo="true"/>
+    <file name="notes.png" crc="271696352" ref="index" seo="true"/>
+    <file name="u390-4.png" crc="4220697453" ref="index"/>
+    <file name="white.jpg" crc="151851147" ref="index"/>
+    <file name="hexagons-u846-fr.png" crc="4019756282" ref="index"/>
+    <file name="yellow.jpg" crc="455476408" ref="index"/>
+    <file name="speechbubbles.png" crc="479670189" ref="index" seo="true"/>
+    <file name="phone.png" crc="4262486928" ref="index" seo="true"/>
+    <file name="fb.png" crc="4228134269" ref="index" seo="true"/>
+    <file name="cnn.png" crc="365324845" ref="index" seo="true"/>
+    <file name="green.jpg" crc="155777546" ref="index"/>
+    <file name="u604-4.png" crc="4126756584" ref="index"/>
+    <file name="fg7.png" crc="4085866899" ref="index" seo="true"/>
+    <file name="fg3.png" crc="4220850670" ref="index" seo="true"/>
+    <file name="fg4.png" crc="4140205869" ref="index" seo="true"/>
+    <file name="fg6.png" crc="3793146234" ref="index" seo="true"/>
+    <file name="fg2.png" crc="19521159" ref="index" seo="true"/>
+    <file name="fg1.png" crc="4283682362" ref="index" seo="true"/>
+    <file name="fg5.png" crc="458454205" ref="index" seo="true"/>
+    <file name="u860-4.png" crc="296205963" ref="index"/>
+    <file name="survey1.png" crc="4217638021" ref="index" seo="true"/>
+    <file name="survey2.png" crc="3949101374" ref="index" seo="true"/>
+    <file name="survey3.png" crc="3965324439" ref="index" seo="true"/>
+    <file name="survey4.png" crc="3988556877" ref="index" seo="true"/>
+    <file name="hand.png" crc="167241090" ref="index" seo="true"/>
+    <file name="apple.png" crc="4054861198" ref="index" seo="true"/>
+    <file name="car.png" crc="83103411" ref="index" seo="true"/>
+    <file name="phone2.png" crc="4050418669" ref="index" seo="true"/>
+    <file name="u959-4.png" crc="4156102266" ref="index"/>
+    <file name="lightblue.jpg" crc="465798734" ref="index"/>
+    <file name="myapp.jpg" crc="13076" ref="index" seo="true"/>
+    <file name="myposter.jpg" crc="441534974" ref="index" seo="true"/>
+    <file name="mystickers.jpg" crc="426854939" ref="index" seo="true"/>
+    <file name="mystorybook.jpg" crc="4293913846" ref="index" seo="true"/>
+    <file name="butcherpaper.png" crc="133903285" ref="index" seo="true"/>
+    <file name="box.png" crc="3233164" ref="index"/>
+    <file name="boxinside.jpg" crc="318578182" ref="index" seo="true"/>
+    <file name="hexagons2.png" crc="4268632810" ref="index"/>
+    <file name="styleguide.jpg" crc="41543054" ref="index" seo="true"/>
+    <file name="attentionalstyleguide.png" crc="182274559" ref="index" seo="true"/>
+    <file name="app.png" crc="239761385" ref="index"/>
+    <file name="u955-4.png" crc="4285997531" ref="index"/>
+    <file name="u956-8.png" crc="161163721" ref="index"/>
+    <file name="u957-4.png" crc="24097583" ref="index"/>
+    <file name="u958-4.png" crc="65550888" ref="index"/>
+    <file name="blue2.jpg" crc="3901987485" ref="index"/>
+    <file name="infoboard.jpg" crc="3810002981" ref="index" seo="true"/>
+    <file name="infosketch1.jpg" crc="461530990" ref="index" seo="true"/>
+    <file name="infosketch2.jpg" crc="3814785917" ref="index" seo="true"/>
+    <file name="infosketch3.jpg" crc="119187904" ref="index" seo="true"/>
+    <file name="infographic.png" crc="3997323425" ref="index" seo="true"/>
+    <file name="tinybee.png" crc="445113331" ref="index" seo="true"/>
+    <file name="favicon.ico" crc="3817374863" ref="index"/>
+    <file name="research.jpg" crc="465661496" ref="index"/>
+    <file name="mybox.png" crc="3780956112" ref="index"/>
+    <file name="productphoto.jpg" crc="85525746" ref="index"/>
+  </folder>
+  <file name="index.html" crc="36079688" mt="1448379365656" redirect="true" seo="true"/>
+</manifest>

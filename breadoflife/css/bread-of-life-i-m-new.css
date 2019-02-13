@@ -1,0 +1,324 @@
+.version.bread_of_life_i_m_new /* version checker */
+{
+	color: #000009;
+	background-color: #F22256;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 980px;
+	min-height: 1660px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 119px;
+	padding-bottom: 16px;
+	width: 0.01px;
+}
+
+#u1207
+{
+	z-index: 2;
+	height: 54px;
+	top: 0px;
+}
+
+#u1207-bw
+{
+	z-index: 2;
+}
+
+#u2370
+{
+	z-index: 31;
+	width: 150px;
+	min-height: 30px;
+	top: 15px;
+	left: 50%;
+	margin-left: 164px;
+}
+
+#u1208
+{
+	z-index: 3;
+	width: 30px;
+	top: 12px;
+	left: 50%;
+	margin-left: 392px;
+}
+
+#u1210
+{
+	z-index: 5;
+	width: 29px;
+	top: 12px;
+	left: 50%;
+	margin-left: 442px;
+}
+
+#u1497-4
+{
+	z-index: 7;
+	top: 21px;
+	left: 50%;
+	margin-left: -469px;
+}
+
+#u1498-4
+{
+	z-index: 11;
+	top: 21px;
+	left: 50%;
+	margin-left: -389px;
+}
+
+#u1499-4
+{
+	z-index: 15;
+	top: 21px;
+	left: 50%;
+	margin-left: -255px;
+}
+
+#u1500-4
+{
+	z-index: 19;
+	top: 21px;
+	left: 50%;
+	margin-left: -150px;
+}
+
+#u1501-4
+{
+	z-index: 23;
+	top: 21px;
+	left: 50%;
+	margin-left: -54px;
+}
+
+#u1502-4
+{
+	z-index: 27;
+	top: 21px;
+	left: 50%;
+	margin-left: 65px;
+}
+
+#u1353-4
+{
+	z-index: 33;
+	display: block;
+	vertical-align: top;
+	margin-left: 21px;
+	position: relative;
+}
+
+#pu2304
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 18px;
+}
+
+#u2304
+{
+	z-index: 106;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1537-16
+{
+	z-index: 37;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 319px;
+}
+
+#u2283
+{
+	z-index: 32;
+	width: 940px;
+	background-color: #C98B1F;
+	padding-bottom: 28px;
+	margin-left: 20px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#u2281-53
+{
+	z-index: 53;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 37px;
+}
+
+#u2460
+{
+	z-index: 114;
+	height: 32px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C98B1F;
+}
+
+#u2460-bw
+{
+	z-index: 114;
+	height: 32px;
+}
+
+#u2459
+{
+	z-index: 113;
+	height: 55px;
+	border-style: none;
+	border-color: transparent;
+	background: #141413 url("../images/pattern.jpg") repeat-x center top;
+}
+
+#u2459-bw
+{
+	z-index: 113;
+	height: 55px;
+}
+
+#u2457
+{
+	z-index: 108;
+	min-height: 176px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #141413;
+	padding-bottom: 70px;
+}
+
+#u2457_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 980px;
+	position: relative;
+	left: -100px;
+	margin-bottom: -5px;
+}
+
+#pu2461
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 76px;
+	margin-left: 174px;
+}
+
+#u2461
+{
+	z-index: 115;
+	width: 25px;
+	background-color: transparent;
+	margin-left: 37px;
+	position: relative;
+}
+
+#u2458-4
+{
+	z-index: 109;
+	display: block;
+	vertical-align: top;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u2464
+{
+	z-index: 127;
+	width: 170px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 376px;
+}
+
+#u2465
+{
+	z-index: 128;
+	width: 19px;
+	background-color: transparent;
+	margin-left: 76px;
+	position: relative;
+}
+
+#u2467-6
+{
+	z-index: 130;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u2467-6_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u2463-10
+{
+	z-index: 117;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 623px;
+}
+
+#u2468-8
+{
+	z-index: 136;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 863px;
+}
+
+#u2457-bw
+{
+	z-index: 108;
+	min-height: 176px;
+	margin-top: -5px;
+}
+
+body
+{
+	position: relative;
+	min-width: 980px;
+	padding-bottom: 15px;
+}
+
